@@ -1,0 +1,15 @@
+anthropic
+openai
+google-genai
+transformers
+torch
+sentence-transformers
+streamlit
+pandas
+matplotlib
+seaborn
+numpy
+python-dotenv
+scikit-learn
+accelerate
+graphifyy
